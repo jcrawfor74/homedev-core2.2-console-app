@@ -2,6 +2,7 @@
 a default .net core 2.2 console application
 
 **Template project**
+
 This is a project to outline and test how to setup a .net core application with the following features:
 
 1. Microsoft Dependency Injection container
@@ -25,6 +26,7 @@ This is a project to outline and test how to setup a .net core application with 
     
 
 **Configuration - Tips and Tricks**
+
 The configuration file "appsettings.json" needs to be copied into the bin directory.
 
 The following setting needs to be added to the project
